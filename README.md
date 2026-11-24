@@ -1,5 +1,7 @@
 # AI Humanizer Benchmark 2026
 
+> **This repo is archived.** The current version of this benchmark lives at [Mohabak/ai-humanizer-benchmark-2026](https://github.com/Mohabak/ai-humanizer-benchmark-2026). This copy is kept so older links still work.
+
 An open, reproducible benchmark of popular AI humanizers. Each tool rewrote the same three AI-generated texts, and every output was scored by independent AI detectors. All inputs, outputs and raw scores are in this repo so anyone can check the numbers or rerun the test.
 
 **Tested:** October 31, 2026
